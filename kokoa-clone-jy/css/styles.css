@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@200;300&display=swap');
+@import "reset.css";
+@import "variables.css";
+/* COMPONENTS */
+@import "components/status-bar.css";
+/* SCREENS */
+@import "screens/login.css";
+
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+
